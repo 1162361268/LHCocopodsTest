@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/1162361268/LHCocopodsTest.git"
   spec.license      = "MIT"
   spec.author             = { "liuhao" => "1162361268@qq.com" }
-  spec.source       = { :git => "https://github.com/1162361268/LHCocopodsTest.git", :tag => "1.2.0" }
+  spec.source       = { :git => "https://github.com/1162361268/LHCocopodsTest.git", :tag => "2.0" }
   spec.source_files  = "Default"
 
 end
